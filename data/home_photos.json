@@ -1,0 +1,13 @@
+{
+    "heroMain": "assets/images/hero-bridal.jpg",
+    "colLehenga": "assets/images/collection-lehenga.jpg",
+    "colSaree": "assets/images/collection-saree.jpg",
+    "colBridal": "assets/images/collection-bridal.jpg",
+    "colParty": "assets/images/collection-party.jpg",
+    "colFestive": "assets/images/collection-festive.jpg",
+    "colDesigner": "assets/images/collection-designer.jpg",
+    "atelierMain": "assets/images/editorial-atelier.jpg",
+    "atelierLook1": "assets/images/prod-banarasi-saree.jpg",
+    "atelierLook2": "assets/images/prod-mirror-lehenga.jpg",
+    "aboutCraft": "assets/images/about-craft.jpg"
+}

@@ -1,0 +1,10 @@
+const fs = require('fs');
+const path = require('path');
+const file = path.join(__dirname, '..', 'index.html');
+let content = fs.readFileSync(file, 'utf8');
+content = content.replace('(Signature Collection, Bhuleshwar Atelier, Hero Banner)', '(Signature Collection, Heritage Atelier, Hero Banner)');
+content = content.replace('Our team at Bhuleshwar, Mumbai has received your details.', 'Our team at Mumbai Suburban has received your details.');
+content = content.replace('title: "The Bhuleshwar Heritage Atelier & Craft"', 'title: "The Heritage Atelier & Craft"');
+content = content.replace('label: "Bhuleshwar Heritage Atelier Main Banner"', 'label: "Heritage Atelier Main Banner"');
+fs.writeFileSync(file, content, 'utf8');
+console.log('Done cleaning remaining references');

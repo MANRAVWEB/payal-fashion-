@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "business_name": "Sharma Boutique",
+        "contact_person": "Ananya Sharma",
+        "phone": "+91 9876543210",
+        "email": "ananya@example.com",
+        "city": "Jaipur",
+        "gstin": "",
+        "estimated_order_qty": "25 Pcs",
+        "notes": "",
+        "status": "New",
+        "created_at": "2026-10-01 19:40:06"
+    }
+]

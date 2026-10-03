@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "product_id": null,
+        "product_name": "Crimson Red Velvet Zardozi Bridal Lehenga",
+        "customer_name": "Ananya Sharma",
+        "customer_phone": "+91 9876543210",
+        "customer_email": "",
+        "city": "",
+        "event_date": "",
+        "message": "Interested in bridal consultation",
+        "status": "New",
+        "created_at": "2026-10-01 19:40:06"
+    }
+]

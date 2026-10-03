@@ -1,0 +1,4 @@
+*.bak
+*.working_bak
+.vscode/
+scratch/
